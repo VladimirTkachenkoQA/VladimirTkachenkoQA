@@ -54,6 +54,7 @@
 <!-- Базы данных -->
 <img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" title="MySQL" alt="MySQL">
 <img src="https://cdn.simpleicons.org/mongodb/47A248" width="45" title="MongoDB" alt="MongoDB">
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/dbeaver/dbeaver-original.svg" width="45" title="DBeaver" alt="DBeaver">
 
 <!-- Dev Tools -->
 <img src="https://cdn.simpleicons.org/git/F05032" width="45" title="Git" alt="Git">
