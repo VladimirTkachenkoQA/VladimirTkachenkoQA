@@ -1,6 +1,7 @@
 # Привет, меня зовут Владимир! 👋  
 ### QA Engineer | Выпускник курса Артёма Русова 
-### [MY CV](https://github.com/user-attachments/files/21566840/CV.pdf)
+### [MY CV](https://github.com/user-attachments/files/21566840/CV.pdf)   <img width="30" height="30" alt="free-icon-resume-942748" src="https://github.com/user-attachments/assets/25b0493c-929d-4e50-a499-284604e0ee95" />
+
 
 
 **🔍 Обо мне:**  
